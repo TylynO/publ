@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "drawings.html",
+    "currentPage": "Index.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -1261,10 +1261,10 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#66605e"
+              "color": "#76807e"
             },
             ".link, .dropdown-item": {
-              "color": "#66605e",
+              "color": "#76807e",
               "googleLink": "https://fonts.googleapis.com/css?family=Bitter:400,700",
               "font-family": "'Bitter', serif"
             },
@@ -1287,7 +1287,7 @@
               "background": "#282828"
             },
             ".bg-color.transparent .link": {
-              "color": "#66605e",
+              "color": "#76807e",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -1307,7 +1307,7 @@
               "color": "#ffffff"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#66605e"
+              "background-color": "#76807e"
             }
           },
           "_name": "menu",

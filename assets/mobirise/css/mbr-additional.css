@@ -770,11 +770,11 @@ h6,
   color: #ffffff;
 }
 #menu-0 .navbar-toggler {
-  color: #66605e;
+  color: #76807e;
 }
 #menu-0 .link,
 #menu-0 .dropdown-item {
-  color: #66605e;
+  color: #76807e;
   font-family: 'Bitter', serif;
 }
 #menu-0 .link {
@@ -807,7 +807,7 @@ h6,
   background: #282828;
 }
 #menu-0 .bg-color.transparent .link {
-  color: #66605e;
+  color: #76807e;
   transition: none;
 }
 #menu-0 .bg-color.transparent.opened .link {
@@ -829,7 +829,7 @@ h6,
 }
 #menu-0 .close-icon::before,
 #menu-0 .close-icon::after {
-  background-color: #66605e;
+  background-color: #76807e;
 }
 #header5-o .mbr-section-title {
   color: #28324e;
