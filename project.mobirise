@@ -49,10 +49,10 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#ffffff"
+              "color": "#76807e"
             },
             ".link, .dropdown-item": {
-              "color": "#ffffff",
+              "color": "#76807e",
               "googleLink": "https://fonts.googleapis.com/css?family=Bitter:400,700",
               "font-family": "'Bitter', serif"
             },
@@ -75,7 +75,7 @@
               "background": "#282828"
             },
             ".bg-color.transparent .link": {
-              "color": "#ffffff",
+              "color": "#76807e",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -95,7 +95,7 @@
               "color": "#ffffff"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
+              "background-color": "#76807e"
             }
           },
           "_name": "menu",
@@ -108,10 +108,10 @@
               "url": "https://fonts.googleapis.com/css?family=Bitter:400,700",
               "css": "'Bitter', serif"
             },
-            "fontColor": "#ffffff",
+            "fontColor": "#76807e",
             "fontHoverColor": "@primaryColor",
             "transparent": true,
-            "sticky": true,
+            "sticky": false,
             "logo": false,
             "showBrand": false,
             "collapsed": true,
@@ -141,7 +141,7 @@
           ],
           "_name": "gallery3",
           "_params": {
-            "paddingTop": 1,
+            "paddingTop": "3",
             "paddingBottom": 1,
             "images": [
               {
@@ -523,10 +523,10 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#ffffff"
+              "color": "#66605e"
             },
             ".link, .dropdown-item": {
-              "color": "#ffffff",
+              "color": "#66605e",
               "googleLink": "https://fonts.googleapis.com/css?family=Bitter:400,700",
               "font-family": "'Bitter', serif"
             },
@@ -549,7 +549,7 @@
               "background": "#282828"
             },
             ".bg-color.transparent .link": {
-              "color": "#ffffff",
+              "color": "#66605e",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -569,7 +569,7 @@
               "color": "#ffffff"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
+              "background-color": "#66605e"
             }
           },
           "_name": "menu",
@@ -582,10 +582,10 @@
               "url": "https://fonts.googleapis.com/css?family=Bitter:400,700",
               "css": "'Bitter', serif"
             },
-            "fontColor": "#ffffff",
+            "fontColor": "#76807e",
             "fontHoverColor": "@primaryColor",
             "transparent": true,
-            "sticky": true,
+            "sticky": false,
             "logo": false,
             "showBrand": false,
             "collapsed": true,
@@ -697,10 +697,10 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#ffffff"
+              "color": "#66605e"
             },
             ".link, .dropdown-item": {
-              "color": "#ffffff",
+              "color": "#66605e",
               "googleLink": "https://fonts.googleapis.com/css?family=Bitter:400,700",
               "font-family": "'Bitter', serif"
             },
@@ -723,7 +723,7 @@
               "background": "#282828"
             },
             ".bg-color.transparent .link": {
-              "color": "#ffffff",
+              "color": "#66605e",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -743,7 +743,7 @@
               "color": "#ffffff"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
+              "background-color": "#66605e"
             }
           },
           "_name": "menu",
@@ -756,10 +756,10 @@
               "url": "https://fonts.googleapis.com/css?family=Bitter:400,700",
               "css": "'Bitter', serif"
             },
-            "fontColor": "#ffffff",
+            "fontColor": "#76807e",
             "fontHoverColor": "@primaryColor",
             "transparent": true,
-            "sticky": true,
+            "sticky": false,
             "logo": false,
             "showBrand": false,
             "collapsed": true,
@@ -841,10 +841,10 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#c1c1c1"
+              "color": "#66605e"
             },
             ".link, .dropdown-item": {
-              "color": "#c1c1c1",
+              "color": "#66605e",
               "googleLink": "https://fonts.googleapis.com/css?family=Bitter:400,700",
               "font-family": "'Bitter', serif"
             },
@@ -867,7 +867,7 @@
               "background": "#282828"
             },
             ".bg-color.transparent .link": {
-              "color": "#c1c1c1",
+              "color": "#66605e",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -887,7 +887,7 @@
               "color": "#ffffff"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#c1c1c1"
+              "background-color": "#66605e"
             }
           },
           "_name": "menu",
@@ -900,10 +900,10 @@
               "url": "https://fonts.googleapis.com/css?family=Bitter:400,700",
               "css": "'Bitter', serif"
             },
-            "fontColor": "#c1c1c1",
+            "fontColor": "#76807e",
             "fontHoverColor": "@primaryColor",
             "transparent": true,
-            "sticky": true,
+            "sticky": false,
             "logo": false,
             "showBrand": false,
             "collapsed": true,
@@ -1095,10 +1095,10 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#c1c1c1"
+              "color": "#76807e"
             },
             ".link, .dropdown-item": {
-              "color": "#c1c1c1",
+              "color": "#76807e",
               "googleLink": "https://fonts.googleapis.com/css?family=Bitter:400,700",
               "font-family": "'Bitter', serif"
             },
@@ -1121,7 +1121,7 @@
               "background": "#282828"
             },
             ".bg-color.transparent .link": {
-              "color": "#c1c1c1",
+              "color": "#76807e",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -1141,7 +1141,7 @@
               "color": "#ffffff"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#c1c1c1"
+              "background-color": "#76807e"
             }
           },
           "_name": "menu",
@@ -1154,10 +1154,10 @@
               "url": "https://fonts.googleapis.com/css?family=Bitter:400,700",
               "css": "'Bitter', serif"
             },
-            "fontColor": "#c1c1c1",
+            "fontColor": "#76807e",
             "fontHoverColor": "@primaryColor",
             "transparent": true,
-            "sticky": true,
+            "sticky": false,
             "logo": false,
             "showBrand": false,
             "collapsed": true,
@@ -1207,7 +1207,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#3C3C3C"
           },
-          "text1": "<strong>Address</strong><br>Speldenstraat 32, 9000 Ghent<br>Belgium<br><br><br>\n<strong>Contacts</strong><br>\nEmail: r0631769@student.luca-arts.be<br>\nPhone: 0032 16 48 77 30<br><br>",
+          "text1": "<strong>Address</strong><br>Speldenstraat 32, 9000 Ghent<br>Belgium<br><br><br>\n<strong>Contacts</strong><br>\nEmail: r0631769@student.luca-arts.be<br><br><br>",
           "text2": "",
           "form": {
             "title": "MESSAGE",
@@ -1261,10 +1261,10 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#c1c1c1"
+              "color": "#66605e"
             },
             ".link, .dropdown-item": {
-              "color": "#c1c1c1",
+              "color": "#66605e",
               "googleLink": "https://fonts.googleapis.com/css?family=Bitter:400,700",
               "font-family": "'Bitter', serif"
             },
@@ -1287,7 +1287,7 @@
               "background": "#282828"
             },
             ".bg-color.transparent .link": {
-              "color": "#c1c1c1",
+              "color": "#66605e",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -1307,7 +1307,7 @@
               "color": "#ffffff"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#c1c1c1"
+              "background-color": "#66605e"
             }
           },
           "_name": "menu",
@@ -1320,10 +1320,10 @@
               "url": "https://fonts.googleapis.com/css?family=Bitter:400,700",
               "css": "'Bitter', serif"
             },
-            "fontColor": "#c1c1c1",
+            "fontColor": "#76807e",
             "fontHoverColor": "@primaryColor",
             "transparent": true,
-            "sticky": true,
+            "sticky": false,
             "logo": false,
             "showBrand": false,
             "collapsed": true,
@@ -1359,6 +1359,9 @@
               "color": "#9c9a9a",
               "font-family": "'Bitter', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Bitter:400,700"
+            },
+            ".mbr-section-lead SPAN": {
+              "color": "#efefef"
             }
           },
           "_tags": [
@@ -1368,18 +1371,18 @@
           "_anchor": "header5-o",
           "_params": {
             "parallax": true,
-            "bgImageRadio": false,
+            "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/dsc-5.jpg",
             "bgColor": "#efefef",
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#000",
+            "overlay": true,
+            "overlayOpacity": "0.5",
+            "overlayColor": "#938585",
             "contentAlign": "left",
             "showTitle": true,
             "showText": true,
@@ -1426,7 +1429,7 @@
             "showButtons": false
           },
           "title": "SOLID COLOR INTRO",
-          "text": "tekst over oninteressante kunst van mezelf&nbsp;",
+          "text": "Mijn persoonlijk werk vertrekt vanuit een fascinatie voor de verhouding van vlakken in de <span style=\"font-size: 1.5rem; line-height: 1.5;\">ruimte, de&nbsp;</span>invloed van licht op kleur en sfeer.<br>Bovenal met het oog op de kijker kunnen wijzen <br>op een intensiteit in de alledaagse omgeving.&nbsp;",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD NOW</a>"
         }
       ]
