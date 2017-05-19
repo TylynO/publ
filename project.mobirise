@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Index.html",
+    "currentPage": "index.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.9.2",
-    "uniqCompNum": 46,
+    "uniqCompNum": 47,
     "versionPublish": "3.12.1",
     "favicon": "",
     "noImageResize": "true",
@@ -523,10 +523,10 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#66605e"
+              "color": "#76807e"
             },
             ".link, .dropdown-item": {
-              "color": "#66605e",
+              "color": "#76807e",
               "googleLink": "https://fonts.googleapis.com/css?family=Bitter:400,700",
               "font-family": "'Bitter', serif"
             },
@@ -549,7 +549,7 @@
               "background": "#282828"
             },
             ".bg-color.transparent .link": {
-              "color": "#66605e",
+              "color": "#76807e",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -569,7 +569,7 @@
               "color": "#ffffff"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#66605e"
+              "background-color": "#76807e"
             }
           },
           "_name": "menu",
@@ -1241,7 +1241,7 @@
         }
       ]
     },
-    "Index.html": {
+    "index.html": {
       "settings": {
         "main": true,
         "title": "",
@@ -1429,8 +1429,48 @@
             "showButtons": false
           },
           "title": "SOLID COLOR INTRO",
-          "text": "Mijn persoonlijk werk vertrekt vanuit een fascinatie voor de verhouding van vlakken in de <span style=\"font-size: 1.5rem; line-height: 1.5;\">ruimte, de&nbsp;</span>invloed van licht op kleur en sfeer.<br>Bovenal met het oog op de kijker kunnen wijzen <br>op een intensiteit in de alledaagse omgeving.&nbsp;",
+          "text": "My personal work is formed by a fascination for &nbsp;de verhouding van vlakken in de <span style=\"font-size: 1.5rem; line-height: 1.5;\">ruimte, de&nbsp;</span>invloed van licht op kleur en sfeer<br>bovenal met het oog op de kijker kunnen wijzen <br>op een intensiteit in de alledaagse omgeving&nbsp;",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD NOW</a>"
+        },
+        {
+          "_inherit": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#000"
+            },
+            ".mbr-section-lead": {
+              "color": "#9c9a9a",
+              "font-family": "'Bitter', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Bitter:400,700"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header5",
+          "_anchor": "header5-1a",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": false,
+            "showArrow": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#efefef",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "left",
+            "showTitle": false,
+            "showText": true,
+            "showButtons": false
+          },
+          "title": "SOLID COLOR INTRO",
+          "text": "About:&nbsp;",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD NOW</a>"
         }
       ]
     }
