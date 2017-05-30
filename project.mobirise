@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "paintings.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -623,8 +623,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/20161208-2000x1595-800x638.jpg",
-                "image": "@PROJECT_PATH@/assets/images/-20161208-2000x1595.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/800x638.jpg",
+                "image": "@PROJECT_PATH@/assets/images/0.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -633,8 +633,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/received-2000x1372-800x548.png",
-                "image": "@PROJECT_PATH@/assets/images/received-2000x1372.png",
+                "thumb": "@PROJECT_PATH@/assets/images/received-800x548.png",
+                "image": "@PROJECT_PATH@/assets/images/received.jpeg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -643,8 +643,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/received-2000x1391-800x556.png",
-                "image": "@PROJECT_PATH@/assets/images/received-2000x1391.png",
+                "thumb": "@PROJECT_PATH@/assets/images/received-1-800x556.png",
+                "image": "@PROJECT_PATH@/assets/images/received-1.jpeg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -670,7 +670,7 @@
               }
             ],
             "spacing": 1,
-            "showText": true,
+            "showText": false,
             "filter": false,
             "bgColor": "#000000",
             "filterBgColor": true,
@@ -1431,46 +1431,6 @@
           "title": "SOLID COLOR INTRO",
           "text": "My personal work is formed by a fascination for &nbsp;the<br> relation between surfaces in space<span style=\"font-size: 1.5rem; line-height: 1.5;\">,</span><br><span style=\"font-size: 1.5rem; line-height: 1.5;\"> the influence of light on color and</span>&nbsp;atmosphere,<br>meant to show the viewer &nbsp;<br>a certain intensity in the daily world.&nbsp;",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD NOW</a>"
-        },
-        {
-          "_inherit": "header1",
-          "_styles": {
-            ".mbr-section-title": {
-              "color": "#000"
-            },
-            ".mbr-section-lead": {
-              "color": "#9c9a9a",
-              "font-family": "'Bitter', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Bitter:400,700"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header5",
-          "_anchor": "header5-1a",
-          "_params": {
-            "parallax": true,
-            "bgImageRadio": false,
-            "showArrow": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#efefef",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#000",
-            "contentAlign": "left",
-            "showTitle": false,
-            "showText": true,
-            "showButtons": false
-          },
-          "title": "SOLID COLOR INTRO",
-          "text": "About:&nbsp;",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD NOW</a>"
         }
       ]
     }
